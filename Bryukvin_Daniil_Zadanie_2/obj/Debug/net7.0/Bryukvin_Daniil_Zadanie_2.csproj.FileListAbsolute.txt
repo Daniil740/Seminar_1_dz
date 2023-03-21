@@ -1,0 +1,15 @@
+C:\Users\mif74\OneDrive\Рабочий стол\ДЗ\C#\Seminar_1_dz\Bryukvin_Daniil_Zadanie_2\bin\Debug\net7.0\Bryukvin_Daniil_Zadanie_2.exe
+C:\Users\mif74\OneDrive\Рабочий стол\ДЗ\C#\Seminar_1_dz\Bryukvin_Daniil_Zadanie_2\bin\Debug\net7.0\Bryukvin_Daniil_Zadanie_2.deps.json
+C:\Users\mif74\OneDrive\Рабочий стол\ДЗ\C#\Seminar_1_dz\Bryukvin_Daniil_Zadanie_2\bin\Debug\net7.0\Bryukvin_Daniil_Zadanie_2.runtimeconfig.json
+C:\Users\mif74\OneDrive\Рабочий стол\ДЗ\C#\Seminar_1_dz\Bryukvin_Daniil_Zadanie_2\bin\Debug\net7.0\Bryukvin_Daniil_Zadanie_2.dll
+C:\Users\mif74\OneDrive\Рабочий стол\ДЗ\C#\Seminar_1_dz\Bryukvin_Daniil_Zadanie_2\bin\Debug\net7.0\Bryukvin_Daniil_Zadanie_2.pdb
+C:\Users\mif74\OneDrive\Рабочий стол\ДЗ\C#\Seminar_1_dz\Bryukvin_Daniil_Zadanie_2\obj\Debug\net7.0\Bryukvin_Daniil_Zadanie_2.csproj.AssemblyReference.cache
+C:\Users\mif74\OneDrive\Рабочий стол\ДЗ\C#\Seminar_1_dz\Bryukvin_Daniil_Zadanie_2\obj\Debug\net7.0\Bryukvin_Daniil_Zadanie_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mif74\OneDrive\Рабочий стол\ДЗ\C#\Seminar_1_dz\Bryukvin_Daniil_Zadanie_2\obj\Debug\net7.0\Bryukvin_Daniil_Zadanie_2.AssemblyInfoInputs.cache
+C:\Users\mif74\OneDrive\Рабочий стол\ДЗ\C#\Seminar_1_dz\Bryukvin_Daniil_Zadanie_2\obj\Debug\net7.0\Bryukvin_Daniil_Zadanie_2.AssemblyInfo.cs
+C:\Users\mif74\OneDrive\Рабочий стол\ДЗ\C#\Seminar_1_dz\Bryukvin_Daniil_Zadanie_2\obj\Debug\net7.0\Bryukvin_Daniil_Zadanie_2.csproj.CoreCompileInputs.cache
+C:\Users\mif74\OneDrive\Рабочий стол\ДЗ\C#\Seminar_1_dz\Bryukvin_Daniil_Zadanie_2\obj\Debug\net7.0\Bryukvin_Daniil_Zadanie_2.dll
+C:\Users\mif74\OneDrive\Рабочий стол\ДЗ\C#\Seminar_1_dz\Bryukvin_Daniil_Zadanie_2\obj\Debug\net7.0\refint\Bryukvin_Daniil_Zadanie_2.dll
+C:\Users\mif74\OneDrive\Рабочий стол\ДЗ\C#\Seminar_1_dz\Bryukvin_Daniil_Zadanie_2\obj\Debug\net7.0\Bryukvin_Daniil_Zadanie_2.pdb
+C:\Users\mif74\OneDrive\Рабочий стол\ДЗ\C#\Seminar_1_dz\Bryukvin_Daniil_Zadanie_2\obj\Debug\net7.0\Bryukvin_Daniil_Zadanie_2.genruntimeconfig.cache
+C:\Users\mif74\OneDrive\Рабочий стол\ДЗ\C#\Seminar_1_dz\Bryukvin_Daniil_Zadanie_2\obj\Debug\net7.0\ref\Bryukvin_Daniil_Zadanie_2.dll
